@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/damianomondaini/rush-b/issues"
   },
-  "homepage": "https://github.com/damianomondaini/rush-b#readme"
+  "homepage": "https://github.com/damianomondaini/rush-b#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "save": "^2.3.3"
+  }
 }
