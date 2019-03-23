@@ -7,9 +7,14 @@
     - 3 last runs
     - Date
 
+- All runs
+    - Show all runs with sort option (sort by month, speed, etc)
+
 - Add record
     - Distance (or add a usual distance, if not add distance)
     - Time
     - Rate
+    - Date (today or add or select)
+    - Place (recent or add)
 
 - News ?
