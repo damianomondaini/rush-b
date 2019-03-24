@@ -3,6 +3,7 @@
         - Average pace
         - Average time
         - Average distance
+        - Tap to show number or graph
     - Monthly report
     - 3 last runs
     - Date
